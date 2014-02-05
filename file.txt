@@ -1,0 +1,12 @@
+Desktop
+Documents
+Downloads
+IdeaProjects
+Jts
+Library
+Movies
+Music
+Pictures
+Public
+VirtualBox VMs
+file.txt
